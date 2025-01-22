@@ -667,6 +667,15 @@ https://www.facebook.com/medinatech.co/[Facebook]
 https://www.linkedin.com/company/medina-tech/[LinkedIn]
 |Please update
 
+|Mediusware Ltd.
+|_Bangladesh Office: 24/1, Taj Mahal Road, Shiya Masjid mor, Floor - 8th & 9th, Ring Road, 1207, Dhaka, Bangladesh +
+_USA Office:_ Mount Pleasant, SC, USA
+|Python, Node.js, Django, PHP, React, Next.js, Vue, AI, Machine Learning, Unity, AR, Android, IOS, React Native, AWS
+|https://mediusware.com/[Website]
+https://www.facebook.com/mediusware/[Facebook]
+https://bd.linkedin.com/company/mediusware-ltd[LinkedIn]
+|Please update
+
 |Metafour Asia
 |Takia Center (7th Floor), 39 Sonargaon Janapath, Sector 7, Uttara, Dhaka 1230
 |Java, Spring
